@@ -1,0 +1,8 @@
+Prompt 1:
+
+"Please fix the collision bug in collisions.py by using pygame.Rect.colliderect() so the frog and vehicles collide based on actual pixel overlap instead of grid columns."
+
+
+Prompt 2:
+
+"Now, update game_engine.py to add a 3-life system, score tracking, and a 30-second attempt timer. Show 'Game Over' when lives hit zero, and 'You Won!' when the frog reaches the goal. Display the lives, score, and time on the screen, and ensure everything resets when 'R' is pressed.
